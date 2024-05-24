@@ -1,0 +1,45 @@
+.a1 {
+  display: flex;
+  align-items: center;
+  gap: 83px;
+}
+.a2 {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.a2 a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header {
+  background: rgb(35, 37, 54);
+  padding: 13px 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.a1 button {
+  padding: 16px 48px;
+  border-style: none;
+  cursor: pointer;
+  color: rgb(35, 37, 54);
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}

@@ -1,0 +1,20 @@
+footer {
+  background: rgb(35, 37, 54);
+  padding: 54px 0;
+  margin-top: 73px;
+}
+.d {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.d p {
+  /* Body 1 */
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}

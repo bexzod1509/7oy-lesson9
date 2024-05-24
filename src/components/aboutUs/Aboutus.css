@@ -1,0 +1,85 @@
+.e {
+  display: flex;
+  align-items: center;
+  gap: 54px;
+  padding: 83px 109px 109px 86px;
+  justify-content: center;
+  margin-top: 130px;
+  background: rgb(244, 240, 248);
+}
+.e p {
+  /* Cap 1 */
+  color: rgb(35, 37, 54);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
+  text-transform: uppercase;
+}
+.e h1 {
+  /* Heading H3 */
+  color: rgb(35, 37, 54);
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  text-align: left;
+  margin-top: 24px;
+  max-width: 481px;
+}
+.e h2 {
+  /* Body 1 */
+  color: rgb(109, 110, 118);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  max-width: 516px;
+  margin-top: 16px;
+}
+.e1 p {
+  /* Heading H2 */
+  color: rgb(35, 37, 54);
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+}
+.e1 h1 {
+  /* Heading H4 */
+  color: rgb(35, 37, 54);
+  font-family: Sen;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-top: 16px;
+  max-width: 519px;
+}
+.e1 h2 {
+  /* Body 1 */
+  color: rgb(35, 37, 54);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  max-width: 519px;
+  margin-top: 16px;
+}
+.e1 {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  justify-content: center;
+  margin-top: 128px;
+}

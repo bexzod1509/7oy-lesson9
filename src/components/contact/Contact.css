@@ -1,0 +1,38 @@
+.f {
+  text-align: center;
+}
+.f h1 {
+  /* Heading H1 */
+  color: rgb(35, 37, 54);
+  font-family: Sen;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -2px;
+  margin-top: 150px;
+  margin-bottom: 46px;
+}
+.f input {
+  width: 768px;
+  padding: 24px;
+  outline: none;
+  border: 1px solid rgba(109, 110, 118, 0.5);
+  border-radius: 2px;
+  margin-top: 22px;
+}
+.f button {
+  display: block;
+  margin-left: 260px;
+  /* Yellow */
+  background: rgb(255, 208, 80);
+  cursor: pointer;
+  border: none;
+  color: rgb(35, 37, 54);
+  font-family: Sen;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0px;
+  margin-top: 74px;
+  padding: 16px 377px 16px 336px;
+}
